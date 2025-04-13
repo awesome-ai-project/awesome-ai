@@ -8,3 +8,4 @@
 
 ## 微调工具
 + [xtuner](https://github.com/InternLM/xtuner)
++ [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
